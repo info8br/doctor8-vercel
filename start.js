@@ -85,7 +85,6 @@ const load_js = function(url){
 
 }
 
-
 const set_session = function(data){
 
   var text = [];
